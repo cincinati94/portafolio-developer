@@ -1,6 +1,5 @@
 import "tailwindcss/tailwind.css";
 import Logo from "../components/Logo";
-import Skills from "../components/Skills";
 import Experience from "./Expirience";
 
 const contacts = [
